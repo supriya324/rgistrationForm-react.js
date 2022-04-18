@@ -1,0 +1,51 @@
+/* Write your CSS code here */
+.heading {
+  color: #ea580c;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
+.regiterform-container {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  width: 250px;
+  height: 200px;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.app-register {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  cursor: pointer;
+  outline: none;
+  background-color: #ea580c;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border-radius: 7px;
+  border-width: 0px;
+  padding: 6px;
+  text-align: center;
+  margin-top: 10px;
+  cursor: pointer;
+  outline: none;
+}
+.registration-firstname-container {
+  margin-left: 20px;
+}
+.registration-lastname-container {
+  margin-left: 20px;
+}
+.input-label {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
